@@ -28,5 +28,5 @@ Exploration of the feasibility and applicability of domain adaptation in machine
 
 ## Citation
 If you find this repository useful or being used within your research, please cite this paper as:
-
+Sukkasem, Peeradon & Soomlek, Chitsutha. (2023). Exploration of the Feasibility and Applicability of Domain Adaptation in Machine Learning-Based Code Smell Detection. 10.1007/978-981-99-7969-1_6. 
 
